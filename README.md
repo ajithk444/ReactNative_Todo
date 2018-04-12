@@ -3,4 +3,4 @@ This project was created while taking up a crash course to learn React Native th
 
 <br/>
   <p>Sample Screens</p>
-  <img height='1000' width='600' src='react_native.png' />
+  <img height='1000' width='600' src='res/React_Native.png' />
